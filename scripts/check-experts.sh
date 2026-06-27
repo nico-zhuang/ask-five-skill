@@ -29,7 +29,6 @@ EXPERTS=(
   "steve-jobs-perspective"
   "elon-musk-perspective"
   "munger-perspective"
-  "trump-perspective"
   "andrej-karpathy-perspective"
   "feynman-perspective"
   "naval-perspective"

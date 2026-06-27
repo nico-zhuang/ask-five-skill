@@ -50,9 +50,9 @@
 
 ## 六、已知风险与限制
 
-- 当前 25 个专家 skill 并非全部 default-enabled，但 Ask Five 会直接读取其 bundled SKILL.md，因此不依赖单独启用
+- 当前 24 个专家 skill 并非全部 default-enabled，但 Ask Five 会直接读取其 bundled SKILL.md，因此不依赖单独启用
 - 专家观点基于公开信息蒸馏，不保证对最新事实敏感
-- 特朗普、张雪峰等 skill 仅作为分析工具，需避免价值观误导
+- 张雪峰等不同领域代表人物 skill 仅作为分析工具，需避免价值观误导
 - 多专家同时调用可能导致输出过长，需严格控制人数和篇幅
 
 ## 七、给 Darwin 的优化检查清单

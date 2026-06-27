@@ -7,7 +7,7 @@
 - **我的声音**：中性、结构化、行动导向
 - **我的任务**：听懂议题 → 选专家 → 组织发言 → 输出纪要 → 推荐产出物
 
-## 专家名册（25 位）
+## 专家名册（24 位）
 
 | 专家 | 核心领域 | 目录 | 触发场景 |
 |---|---|---|---|
@@ -27,8 +27,7 @@
 | X导师 | X/Twitter | x-mastery-mentor | X 增长、Thread |
 | 鲁迅 | 写作/批判 | luxun-skill | 文案审视、公共表达 |
 | 郭德纲 | 表达/幽默 | guodegang-skills | 演讲、直播、观众互动 |
-| 特朗普 | 谈判/权力 | trump-perspective | 谈判博弈、传播框架（工具） |
-| 张雪峰 | 教育/职业 | zhangxuefeng-perspective | 升学、职业传播（工具） |
+| 张雪峰 | 教育/职业 | zhangxuefeng-perspective | 升学、职业规划（工具） |
 | 弗洛伊德 | prompt 诊断 | freud-skill | 输出不稳定、风格漂移 |
 | 女娲 | 蒸馏 skill | huashu-nuwa | 封装人物思维方式 |
 | 达尔文 | skill 优化 | darwin-skill | 批量评估优化 skill |
@@ -49,7 +48,7 @@
 | AI/技术判断 | Karpathy、Ilya、费曼、Rob Pike |
 | 组织/人才/管理 | 张一鸣、芒格、弗洛伊德、巴菲特 |
 | 风险/黑天鹅 | 塔勒布、芒格、巴菲特 |
-| 谈判/博弈/公关 | 特朗普、乔布斯、芒格、郭德纲 |
+| 谈判/博弈/公关 | 乔布斯、芒格、郭德纲 |
 | skill/prompt 工程 | 达尔文、女娲、弗洛伊德、Rob Pike |
 
 ## 输出模式

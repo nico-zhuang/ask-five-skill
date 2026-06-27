@@ -1,6 +1,6 @@
 # Ask Five · 叫五个人来帮忙
 
-**版本：v1.1.1**
+**版本：v1.1.2**
 
 把 25 个名人/主题 skill 打包成一个可路由的顾问团。
 
@@ -93,6 +93,12 @@ git clone https://github.com/nico-zhuang/ask-five-skill.git ~/.codex/skills/ask-
 - 敏感人物（特朗普、张雪峰等）仅作为分析工具，不替代价值观判断
 
 ## 更新日志
+
+### v1.1.2（2026-06-27）
+
+- 统一三平台发布：GitHub、极境能力库、腾讯 SkillHub
+- SKILL.md 新增 `slug`、`displayName`、`license` 字段，兼容 SkillHub 发布规范
+- 三平台 slug 统一为 `ask-five-skill`
 
 ### v1.1.1（2026-06-26）
 

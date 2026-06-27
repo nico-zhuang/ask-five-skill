@@ -2,7 +2,7 @@
   "id": "ask-five-skill",
   "name": "ask-five-skill",
   "displayName": "Ask Five · 专家团",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "NicoZhuang",
   "description": "Ask Five —— 叫五个人来帮忙。把 25 个名人/主题 skill 打包成一个可路由的顾问团。",
   "tags": ["ask-five", "decision", "panel", "consulting", "thinking-tools"],

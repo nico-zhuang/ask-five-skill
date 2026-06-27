@@ -1,12 +1,15 @@
 ---
+slug: ask-five-skill
 name: ask-five-skill
+displayName: Ask Five · 专家团
 description: |
   Ask Five —— 叫五个人来帮忙。把 25 个名人/主题 skill 打包成一个可路由的顾问团。
   当用户说「Ask Five」「ask five」「专家团开会」「召集专家团」「叫专家团」「panel」「expert panel」「大事商量」「开个会」时激活。
   先扫描本地 skill 可用性，再分析议题类型，自动判断派出哪些人设/技能代表，依次调用对应视角输出观点，输出结构化会议纪要，并主动推荐可执行产出物（决策卡/行动清单/风险清单等）。
   适用于战略、产品、内容、投资、AI、组织、个人成长、风险决策、心理诊断等复杂议题。
   核心原则：不替代决策，只提供多元视角；每次会议不超过 5 人；动态检测 skill 可用性；未安装专家使用内置 fallback 画像模拟；必须指出分歧和盲区。
-version: 1.1.1
+version: 1.1.2
+license: MIT
 default-enabled: false
 ---
 

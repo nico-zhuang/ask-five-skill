@@ -1,0 +1,41 @@
+{
+  "id": "ask-five-skill",
+  "name": "ask-five-skill",
+  "displayName": "Ask Five · 专家团",
+  "version": "1.1.1",
+  "author": "NicoZhuang",
+  "description": "Ask Five —— 叫五个人来帮忙。把 25 个名人/主题 skill 打包成一个可路由的顾问团。",
+  "tags": ["ask-five", "decision", "panel", "consulting", "thinking-tools"],
+  "category": "05_thinking-tools",
+  "status": "stable",
+  "lastUpdated": "2026-06-26",
+  "platforms": {
+    "hana": {
+      "entry": "SKILL.md",
+      "type": "multi-file",
+      "routing": "dynamic",
+      "install": "install_skill github_url=https://github.com/nico-zhuang/ask-five-skill"
+    },
+    "skillhub": {
+      "entry": "SKILL.md",
+      "type": "multi-file-zip",
+      "routing": "dynamic",
+      "install": "Upload root directory ZIP to Tencent SkillHub"
+    },
+    "codex": {
+      "entry": "platforms/codex/ask-five-skill.md",
+      "type": "single-file",
+      "routing": "rule-based",
+      "install": "Copy platforms/codex/ask-five-skill.md to ~/.codex/skills/ask-five-skill.md"
+    },
+    "claude-code": {
+      "entry": "platforms/claude-code/ask-five/ask-five.md",
+      "type": "multi-file",
+      "routing": "dynamic",
+      "install": "Copy platforms/claude-code/ask-five/ to your project's .claude/ask-five/"
+    }
+  },
+  "expertsCount": 25,
+  "defaultEnabled": false,
+  "repository": "https://github.com/nico-zhuang/ask-five-skill"
+}

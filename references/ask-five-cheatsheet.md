@@ -25,7 +25,7 @@
 | 张一鸣 | 产品/组织 | zhang-yiming-perspective | 产品决策、组织信息 |
 | MrBeast | 内容/病毒视频 | mrbeast-perspective | 短视频选题、完播率 |
 | X导师 | X/Twitter | x-mastery-mentor | X 增长、Thread |
-| 鲁迅 | 写作/批判 | luxun-skill | 文案审视、公共表达 |
+| 鲁迅 | 写作/审视 | luxun-skill | 文案审视、公共表达 |
 | 郭德纲 | 表达/幽默 | guodegang-skills | 演讲、直播、观众互动 |
 | 张雪峰 | 教育/职业 | zhangxuefeng-perspective | 升学、职业规划（工具） |
 | 弗洛伊德 | prompt 诊断 | freud-skill | 输出不稳定、风格漂移 |
